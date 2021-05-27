@@ -195,3 +195,36 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-05-27 14:38:48.533
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:06.401
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:06.413
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:06.423
+!MESSAGE buffering callback sts4.classpath.jTjSCcdd scel false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:06.424
+!MESSAGE executing callback sts4.classpath.jTjSCcdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:07.171
+!MESSAGE executing callback sts4.classpath.jTjSCcdd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:10.687
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:10.702
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:10.710
+!MESSAGE buffering callback sts4.classpath.jTjSCcdd scel false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:10.711
+!MESSAGE executing callback sts4.classpath.jTjSCcdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-27 15:00:10.967
+!MESSAGE executing callback sts4.classpath.jTjSCcdd SUCCESS [done]
